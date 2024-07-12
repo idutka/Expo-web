@@ -1,3 +1,9 @@
+# Welcome to Expo Web application 👋
+
+This is a test application that uses [`Expo Web`](https://docs.expo.dev/workflow/web/) to change the background color to the random one.
+
+You can find more information about the test task here: [`https://bit.ly/Test-task-FAQ`](https://bit.ly/Test-task-FAQ)
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
